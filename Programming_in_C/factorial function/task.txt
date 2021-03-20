@@ -1,0 +1,10 @@
+Task is to implement a program that consists of two separate C-files (and headers as
+required):
+
+• A module calculations should provide a function int factorial(int n) that computes the factorial of an integer, i.e. n 7→ n!. Further, you should implement a function
+int factorial(float f) (Careful: same name!), that rounds up f to the next higher
+integer and then calls int factorial(int n) to calculate the factorial. The result
+should be returned.
+
+• A module main reads two numbers from the console (an integer and a floating point
+number) and prints the corresponding results.

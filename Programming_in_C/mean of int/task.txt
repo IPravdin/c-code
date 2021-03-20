@@ -1,0 +1,3 @@
+Declare an array of 10 integers and use a for loop to fill them with input from the user.
+Then, by using a second for loop, calculate the mean of these numbers and print it to the
+console. The mean should be stored in a variable of type double for higher precision.

@@ -1,0 +1,6 @@
+Read an integer from the console and then print a list of its properties. In particular, verify
+the following properties:
+• Is it odd or even?
+• Is it divisible by 3?
+• Is the number positive or negative?
+• If you add 1 to it, is it then divisible by 7?
