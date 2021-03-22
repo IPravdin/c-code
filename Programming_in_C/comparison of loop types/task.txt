@@ -1,0 +1,9 @@
+In C we have three different loop types available: while, do .. while, and for. In order
+to compare them and find the advantages and disadvantages of each, you should implement
+each of the following tasks three times using every loop type for each task:
+
+a) Write a loop that prints the numbers 0, . . . , 100 to the console.
+b) Read a number from the user, and write as many ’*’ symbols to the console as given
+by the user.
+c) Read a single character from the user and continue until the user enters ’q’ or ’Q’.
+Think about the loop types: which loop is best suited for which task?
