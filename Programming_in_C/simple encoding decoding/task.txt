@@ -1,0 +1,4 @@
+You should write a coding function that applies the following code: Each letter A to J should
+be substituted by the digits 0, 1,. . . , 9. The letters K to Z should be inversely shifted, such
+that K → Z, L → Y, etc. Of course, you also have to write a decoding function. Test the
+function wring a main and check if it correctly decodes the cipher.
