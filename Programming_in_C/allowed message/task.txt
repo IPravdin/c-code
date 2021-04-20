@@ -1,0 +1,1 @@
+Write a function void scanLimited( char *str, char *allow ) that scans a string using getchar(). However, the user is only allowed to enter characters that are contained in allow, and all others are ignored. Test your function!
