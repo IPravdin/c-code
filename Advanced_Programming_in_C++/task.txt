@@ -1,0 +1,1 @@
+Create a console-based application for calculating square root of N, logarithm base 2 of N, and prime numbers to a given limit N. N should be provided by the user and you should utilize exceptions defined by you to catch errors at any point in the program.

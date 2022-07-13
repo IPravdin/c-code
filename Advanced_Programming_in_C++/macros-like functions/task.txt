@@ -1,0 +1,1 @@
+Create a console-based application for sorting decimal numbers using quick sort and then convert the number to binary. You should utilize Object/Function like macros.
